@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W6ESmIPIarNFUoNy4UiVs+cB/8w8qLxCDKfaChgGFlINh7+/f3YgGeDanaWfFJ0/2ubRFkijFgdJKU5b/EdGSg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Innopolis\\CDTO\\Speech\\Speech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aldyrev\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.24.2\\microsoft.cognitiveservices.speech.1.24.2.nupkg.sha512"
+  ],
+  "logs": []
+}
